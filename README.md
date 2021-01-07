@@ -110,10 +110,10 @@ Admin's Own Profile page where a download button which will generate a pdf file 
 Admin Profile Edit page where admin can upload profile picture and edit the personal information
 ![Image](./snapshots/saqib-Edit-Profile.png)
 
-Admin Can add new Category
+Admin Can add new Category from Categories > Add category
 ![Image](./snapshots/saqib-Category-Add.png)
 
-Admin Can see Categories
+Admin Can see Categories from Categories > See Categories
 ![Image](./snapshots/saqib-Categories.png)
 
 Admin Can see Admin Lists, Buyer Lists, Sellers List
