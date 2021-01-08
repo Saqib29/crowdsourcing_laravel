@@ -7,7 +7,7 @@
 - Report generation (PDF)
 - Third party library (packagist - guzzleHttp request)
 - Server side validation (All forms)
-- DB migration
+- DB migration (MySql)
 - System Merged
 - Microservice
 - Use of Ajax
@@ -18,6 +18,7 @@
 ### A short description:
 
 A simple freelancing website which was created by **Aminul Islam Saqib** and **Al Zami Arafat** as a Team.
+Database MySQL is used and for frontend bootstrap and some row css code used.
 
 Three types of user: 1. Admin    2. Seller   3. Buyer
 
